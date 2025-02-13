@@ -19,7 +19,7 @@
 
 # iterate-object
 
- [![Support me on Patreon][badge_patreon]][patreon] [![Buy me a book][badge_amazon]][amazon] [![PayPal][badge_paypal_donate]][paypal-donations] [![Ask me anything](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/iterate-object.svg)](https://www.npmjs.com/package/iterate-object) [![Downloads](https://img.shields.io/npm/dt/iterate-object.svg)](https://www.npmjs.com/package/iterate-object) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
+ [![Support me on Patreon][badge_patreon]][patreon] [![Buy me a book][badge_amazon]][amazon] [![PayPal][badge_paypal_donate]][paypal-donations] [![Ask me anything](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/iterate-object.svg)](https://www.npmjs.com/package/iterate-object) [![Downloads](https://img.shields.io/npm/dt/iterate-object.svg)](https://www.npmjs.com/package/iterate-object) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/@johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 <a href="https://www.buymeacoffee.com/H96WwChMy" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee"></a>
 
@@ -123,6 +123,7 @@ IterateObject([
 
 
 
+
 ## :question: Get Help
 
 There are few ways to get help:
@@ -132,6 +133,8 @@ There are few ways to get help:
  1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
  2. For bug reports and feature requests, open issues. :bug:
  3. For direct and quick help, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
+
+
 
 
 
@@ -204,60 +207,70 @@ Thanks! :heart:
 ## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
- - `edit-json-file`
- - `scrape-it`
- - `err`
- - `tilda`
- - `emojic`
- - `couleurs`
- - `lien`
- - `oargv`
- - `map-o`
- - `html-encoder-decoder`
- - `emoji-name-map`
- - `elly`
- - `barbe`
- - `color-it`
- - `obj-flatten`
- - `xml-jsonify`
- - `emoji-unicode-map`
- - `emoji-from-word`
- - `bloggify-template-renderer`
- - `bloggify-page`
- - `match`
- - `error-creator`
- - `obj-unflatten`
- - `bloggify-redirect`
- - `bloggify-actions`
- - `rucksack`
- - `bloggify-flexible-router`
- - `git-stats`
+ - `@acegoal07/json-editor`
+ - `@isysd/gpm`
  - `@rivkesse/emoji-category-map`
+ - `@slikts/scrape-it`
+ - `@ywzhaiqi/scrape-it-core`
+ - `angularvezba`
+ - `barbe`
+ - `bloggify`
+ - `bloggify-actions`
+ - `bloggify-cli`
  - `bloggify-config`
- - `svg.connectable.js`
- - `engine-parser`
+ - `bloggify-flexible-router`
+ - `bloggify-mongoose`
+ - `bloggify-on-request`
+ - `bloggify-page`
+ - `bloggify-paths`
+ - `bloggify-redirect`
+ - `bloggify-sequelize`
+ - `bloggify-shortcode`
+ - `bloggify-template-renderer`
+ - `bloggify-theme-renderer`
+ - `color-it`
+ - `couleurs`
+ - `edit-json-file`
+ - `elly`
+ - `emoji-from-word`
+ - `emoji-unicode-map`
+ - `emoji.css`
+ - `emojic`
  - `engine-builder`
- - `enny`
  - `engine-flow-types`
+ - `engine-parser`
+ - `enny`
+ - `err`
+ - `error-creator`
+ - `fixmtoacrisconverter`
+ - `fixmtoacrisconverterlib`
+ - `fixmtoacristransformer`
+ - `gh-following`
+ - `git-stats`
+ - `gm-tools`
+ - `gpm`
+ - `html-encoder-decoder`
+ - `lien`
+ - `love-you`
+ - `map-o`
+ - `markdownalint-cli2`
+ - `match`
  - `mini-lightbox`
  - `nodeice`
- - `bloggify-mongoose`
- - `gm-tools`
- - `bloggify-shortcode`
- - `bloggify-paths`
- - `stringify-env`
- - `bloggify-theme-renderer`
- - `bloggify-on-request`
- - `scrape-it-plus`
- - `@slikts/scrape-it`
- - `love-you`
+ - `oargv`
+ - `obj-flatten`
+ - `obj-unflatten`
  - `remove-one-element-arrays`
+ - `rucksack`
+ - `scrape-it-core`
+ - `scrape-it-plus`
+ - `scraped-core`
+ - `stringify-env`
+ - `svg.connectable.js`
+ - `tilda`
+ - `tools_may_24`
  - `validate5`
- - `bloggify-sequelize`
- - `@isysd/gpm`
- - `emoji.css`
- - `gpm`
- - `gh-following`
+ - `xml-jsonify`
 
 
 
@@ -279,7 +292,7 @@ If you are using this library in one of your projects, add it in this list. :spa
 
 
 [license]: /LICENSE
-[website]: http://ionicabizau.net
+[website]: https://ionicabizau.net
 [contributing]: /CONTRIBUTING.md
 [docs]: /DOCUMENTATION.md
 [badge_patreon]: https://ionicabizau.github.io/badges/patreon.svg

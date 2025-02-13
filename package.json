@@ -1,6 +1,6 @@
 {
   "name": "iterate-object",
-  "version": "1.3.4",
+  "version": "1.3.5",
   "description": "A convenient way to iterate objects.",
   "main": "lib/index.js",
   "directories": {
@@ -17,10 +17,27 @@
     "iterate",
     "object"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/node-iterate-object/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/node-iterate-object"
+  "homepage": "https://github.com/IonicaBizau/node-iterate-object",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "scripts/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js",
+    "index.d.ts",
+    "package-lock.json",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
+  ]
 }
